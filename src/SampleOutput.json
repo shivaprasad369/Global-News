@@ -1,0 +1,254 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "David Goldman",
+        "title": "37 million T-Mobile customers were hacked - CNN",
+        "description": "T-Mobile said a \"bad actor\" accessed personal data from 37 million current customers in a November data breach.",
+        "url": "https://www.cnn.com/2023/01/19/tech/tmobile-hack/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118193958-t-mobile-store-220131-restricted.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-20T14:25:00Z",
+        "content": "T-Mobile said a bad actor accessed personal data from 37 million current customers in a November data breach.\r\nIn a regulatory filing Thursday, the company said the hacker stole customer data that in… [+1623 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Andrew Tate: Romania court extends police detention for influencer and brother - BBC",
+        "description": "Influencer Andrew Tate will stay in custody until 27 February after a Romanian court extends his detention.",
+        "url": "https://www.bbc.com/news/world-europe-64347211",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFD2/production/_128249316_5c3b04f8a957758dc3d36191506e4072e23272dd0_0_4372_29912000x1368.jpg",
+        "publishedAt": "2023-01-20T13:42:40Z",
+        "content": "Influencer Andrew Tate and his brother Tristan are to stay in custody until 27 February after a Romanian court extended their detention by police.\r\nThe pair are being investigated over allegations of… [+967 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "NBC Sports Staff",
+        "title": "2023 NFL Playoffs Schedule: Bracket, game dates, times and TV networks for Divisional Round and more - NBC Sports - Misc.",
+        "description": "The 2023 NFL playoffs are underway and each day brings us closer to the ultimate showdown: Super Bowl LVII. Several familiar contenders are back in the mix, including the Kansas City Chiefs, Buffalo Bills, Dallas Cowboys and Philadelphia Eagles. The New York …",
+        "url": "https://sports.nbcsports.com/2023/01/20/2023-nfl-playoffs-schedule-bracket-game-dates-wild-card-weekend/",
+        "urlToImage": null,
+        "publishedAt": "2023-01-20T13:30:00Z",
+        "content": "All six of the Wild Card weekend matchups are through, with the Giants upsetting the Vikings to secure a matchup with the No. 1 seed Eagles, and the Bills and Bengals holding off the Dolphins and Rav… [+3729 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Google parent to lay off 12000 workers, memo says - Reuters",
+        "description": "Google's parent Alphabet is eliminating about 12,000 jobs, or 6% of its workforce, the company said, as Silicon Valley reels from recent layoffs and faces a ...",
+        "url": "https://www.youtube.com/watch?v=tX9ACY1AhWg",
+        "urlToImage": "https://i.ytimg.com/vi/tX9ACY1AhWg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSChDMA8=&rs=AOn4CLCVAWFD3_jDe6SWOcyGTh1OaiGG4A",
+        "publishedAt": "2023-01-20T12:58:25Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sarah Min",
+        "title": "Stocks making the biggest moves premarket: Netflix, Alphabet, Nordstrom, PagerDuty and more - CNBC",
+        "description": "These are the stocks posting the largest moves in early trading.",
+        "url": "https://www.cnbc.com/2023/01/20/stocks-making-the-biggest-moves-premarket-netflix-alphabet-nordstrom-pagerduty-and-more.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107145898-1667510273534-gettyimages-1393876536-0j7a4557_34171d4c-3964-4bfa-ac93-3394a0db95ff.jpeg?v=1674223992&w=1920&h=1080",
+        "publishedAt": "2023-01-20T12:43:22Z",
+        "content": "Check out the companies making headlines before the bell:\r\nNetflix The streaming stock jumped more than 6% after Netflix reported its latest quarterly results. While Netflix missed earnings expectati… [+2403 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Dani Romero",
+        "title": "Stock market news live updates: Stock futures mixed as Wall Street looks to rebound - Yahoo Finance",
+        "description": "U.S. stocks wavered at the open Friday, suggesting that indexes could wrap up the week upbeat as technology stocks head for modest gains.",
+        "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-20-2023-123518063.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KpuOhpSUfe1f7enBoSltpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/ecf732f0-985c-11ed-bfff-9f65ddf63ebd",
+        "publishedAt": "2023-01-20T12:35:18Z",
+        "content": "U.S. stocks wavered at the open Friday, with some signs suggesting that indexes could wrap up the week on an upbeat note as technology stocks head for modest gains.\r\nThe S&P 500 (^GSPC) added 0.2… [+3662 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boston 25 News"
+        },
+        "author": "Frank O'Laughlin",
+        "title": "Massachusetts health officials announce first cases of ‘concerning’ new gonorrhea strain - Boston 25 News",
+        "description": "Massachusetts health officials on Thursday announced the state’s first two cases of a highly “concerning” new gonorrhea strain.",
+        "url": "https://www.boston25news.com/news/local/massachusetts-health-officials-announce-first-cases-concerning-new-gonorrhea-strain/5LZQXT4WOJDMBAF5YMGYIYBH6A/",
+        "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/mJyDNM-KeeTAoV8elslPGIrPVpk=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/2U5OZFR2O5FPVKEWTULKPARBQM.png",
+        "publishedAt": "2023-01-20T12:31:18Z",
+        "content": "BOSTON — Massachusetts health officials on Thursday announced the states first two cases of a highly concerning new gonorrhea strain.\r\nA novel strain of gonorrhea was detected in a Bay State resident… [+2080 chars]"
+      },
+     
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Remembering David Crosby - ABC News",
+        "description": "The legendary folk and rock musician passed away after a long illness at age 81. ABC News’ Will Ganss looks back at Crosby’s storied career.",
+        "url": "https://www.youtube.com/watch?v=wrZolJJYPi0",
+        "urlToImage": "https://i.ytimg.com/vi/wrZolJJYPi0/maxresdefault.jpg",
+        "publishedAt": "2023-01-20T11:13:47Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Jillian Wilson",
+        "title": "Here’s How Long You’re Contagious With The Latest COVID Variant - HuffPost",
+        "description": "It can be hard to know if you’re putting others at risk, but there are rules you can follow to help protect those around you.",
+        "url": "https://www.huffpost.com/entry/how-long-contagious-covid-19_l_63c80929e4b01e92886088b4",
+        "urlToImage": "https://img.huffingtonpost.com/asset/63c809c22200003400cf1522.jpeg?cache=pMKWPxjZP8&ops=1200_630",
+        "publishedAt": "2023-01-20T10:45:29Z",
+        "content": "Experts discuss the most contagious stage of COVID-19 infection and how long you can spread the virus.\r\nNobody wants to give COVID-19 to a loved one (or anyone). But determining just how long youre c… [+5566 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Arlette Saenz, Kevin Liptak, Maegan Vazquez, Marshall Cohen",
+        "title": "How Biden's Wilmington residence went from a family home to subject of investigation - CNN",
+        "description": "Last August, as President Joe Biden left the White House for another weekend at home in Wilmington, Delaware, he told reporters he was bringing his President's Daily Brief -- the highly classified intelligence memo that contains some of the US government's mo…",
+        "url": "https://www.cnn.com/2023/01/20/politics/biden-documents-wilmington/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230119155354-07-biden-wilmington-house-classified-documents.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-20T10:03:00Z",
+        "content": "Last August, as President Joe Biden left the White House for another weekend at home in Wilmington, Delaware, he told reporters he was bringing his Presidents Daily Brief the highly classified intell… [+11660 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Hundreds evacuated as blaze erupts in slum next to Seoul's posh Gangnam district - Reuters",
+        "description": "Fire swept through part of a shanty town in the South Korean capital, Seoul, on Friday, destroying 60 homes, many constructed from cardboard and wood, and forcing the evacuation of around 500 people.",
+        "url": "https://www.reuters.com/world/asia-pacific/some-500-people-are-evacuated-fire-south-korea-shanty-town-2023-01-20/",
+        "urlToImage": "https://www.reuters.com/resizer/xPsAFQpYndqwxns2l_eZ8r1SHXs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3IWZMFOKAFNNBCBTQEHFRMUEKY.jpg",
+        "publishedAt": "2023-01-20T08:59:00Z",
+        "content": "SEOUL, Jan 20 (Reuters) - Fire swept through part of a shanty town in the South Korean capital, Seoul, on Friday, destroying 60 homes, many constructed from cardboard and wood, and forcing the evacua… [+2538 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ESPN"
+        },
+        "author": "Kendra Andrews",
+        "title": "Where have the Warriors gone? Collapse to Celtics could spark changes by Steve Kerr - ESPN",
+        "description": "Golden State has fallen below .500 with more than half the season behind them. But the reigning champs know they have what it takes to succeed - they just haven't quite found it yet.",
+        "url": "https://www.espn.com/nba/story/_/id/35486312/where-warriors-gone-collapse-celtics-spark-changes-steve-kerr",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0120%2Fr1120065_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-01-20T06:40:28Z",
+        "content": "BOSTON -- For the first three quarters of the Golden State Warriors' game against the Boston Celtics on Thursday, Stephen Curry and company looked like themselves. Coach Steve Kerr went as far as to … [+4711 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBC Southern California"
+        },
+        "author": "Rudy Chinchilla",
+        "title": "Leslie Jordan's Cause of Death Revealed in LA County Coroner's Report - NBC Southern California",
+        "description": "The Los Angeles County Department of Medical Examiner-Coroner revealed the cause of actor Leslie Jordan's death in Hollywood.",
+        "url": "https://www.nbclosangeles.com/local-2/leslie-jordan-cause-of-death-revealed-in-la-county-coroners-report/3077235/",
+        "urlToImage": "https://media.nbclosangeles.com/2022/10/GettyImages-945522886.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2023-01-20T06:38:10Z",
+        "content": "Actor Leslie Jordan died of sudden cardiac dysfunction, according to an autopsy report by the Los Angeles County medical examiner's office.\r\nThe cardiac dysfunction Jordan suffered was due to arterio… [+1453 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Claudia Rebaza, Tara John, Jack Guy, Mia Alberti",
+        "title": "Protests erupt in Peru as thousands of police officers deploy to guard capital - CNN",
+        "description": "Peru's President Dina Boluarte has called for dialogue after clashes between protesters and police during nationwide demonstrations left one person dead and 30 injured.",
+        "url": "https://www.cnn.com/2023/01/19/americas/peru-protests-thursday-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230119150303-01-peru-protests-0119.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-20T06:18:00Z",
+        "content": "Perus President Dina Boluarte has called for dialogue after clashes between protesters and police during nationwide demonstrations left one person dead and 30 injured.\r\nOnce again, I call for dialogu… [+7605 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Ken Martin",
+        "title": "FAA reveals what caused computer outage prompting ground stop - Fox Business",
+        "description": "The Federal Aviation Administration explained that the Jan 11 grounding of aircraft was caused by unintentionally deleted computer files.",
+        "url": "https://www.foxbusiness.com/markets/faa-reveals-what-caused-computer-outage-prompting-groundstop",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Groundstop-OHare-A-Reuters.jpg?ve=1&tl=1",
+        "publishedAt": "2023-01-20T06:06:46Z",
+        "content": "The Federal Aviation Administration (FAA) revealed on Thursday what caused a ground stop a week ago that disrupted more than 11,000 flights.\r\nA preliminary review found contract personnel \"unintentio… [+2154 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Martin Pengelly",
+        "title": "Nikki Haley accuses Pompeo of 'lies and gossip to sell book' after vice-president plot claim - The Guardian",
+        "description": "Former UN ambassador hits back at former secretary of state as jockeying for Republican presidential primary hots up",
+        "url": "https://www.theguardian.com/books/2023/jan/19/nikki-haley-pompeo-lies-and-gossip-to-sell-book-vice-president-plot",
+        "urlToImage": "https://i.guim.co.uk/img/media/595291c895f0fe73ffea4041bb422ac7d32ab53c/0_214_2920_1753/master/2920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0cd2af2fff1c3949e1bc80b2b9a6d2f",
+        "publishedAt": "2023-01-20T06:03:00Z",
+        "content": "Nikki Haley said the former secretary of state Mike Pompeos claim that she plotted to replace Mike Pence as Donald Trumps vice-president was lies and gossip to sell a book.\r\nThe former United Nations… [+2711 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Jill Colvin",
+        "title": "Florida judge fines Trump, lawyer for 'frivolous' lawsuit - The Associated Press - en Español",
+        "description": "NEW YORK (AP) — A Florida Judge sanctioned former President Donald Trump and one of his attorneys  Thursday, ordering them to pay nearly $1 million for filing what he said was a bogus lawsuit against Trump's 2016 rival Hillary Clinton and others.",
+        "url": "https://apnews.com/article/politics-hillary-clinton-donald-trump-florida-new-york-872898a17b2f55a4d1235f978633d2df",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/63753a195e7d4672a2af9d1bc3ced6d9/3000.webp",
+        "publishedAt": "2023-01-20T05:59:29Z",
+        "content": "NEW YORK (AP) A Florida Judge sanctioned former President Donald Trump and one of his attorneys Thursday, ordering them to pay nearly $1 million for filing what he said was a bogus lawsuit against Tr… [+1733 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PEOPLE"
+        },
+        "author": "https://www.facebook.com/peoplemag",
+        "title": "Brittany Snow Files for Divorce from Tyler Stanaland - PEOPLE",
+        "description": "Brittany Snow and Tyler Stanaland first announced their separation in September, two years after they tied the knot",
+        "url": "https://people.com/movies/brittany-snow-files-for-divorce-from-tyler-stanaland/",
+        "urlToImage": "https://people.com/thmb/WhHj2jLPxz2HJpLExxMCipH324g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x644:1001x646)/brittany-snow-tyler-stanaland-1-6050e1d18ef344f98ab21e11a6ebe9ce.jpg",
+        "publishedAt": "2023-01-20T05:46:00Z",
+        "content": "Brittany Snow has officially filed for divorce from Tyler Stanaland.\r\nIn court documents filed in the Superior Court of California in Los Angeles County on Thursday and seen by PEOPLE, the Someone Gr… [+2972 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Ukraine war: Allies to meet as Kyiv requests tank donations - BBC",
+        "description": "Talks will focus on military aid, with pressure on Germany to allow Ukraine its Leopard tanks.",
+        "url": "https://www.bbc.com/news/world-europe-64341337",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1191D/production/_128356917_gettyimages-1235272234.jpg",
+        "publishedAt": "2023-01-20T05:17:37Z",
+        "content": "Dozens of countries allied with Ukraine will meet on Friday to coordinate arms supplies for Kyiv, which has ramped up its requests to be provided with tanks.\r\nGermany faces growing pressure to allow … [+3504 chars]"
+      }
+    ]
+  }
