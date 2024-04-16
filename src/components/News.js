@@ -34,7 +34,7 @@ const News=(props)=> {
   useEffect(()=>{
       document.title = `${capitalizeFirstCharacter( props.category)} - Honest News`;
     updateNews();
-  },[props.category,updateNews])
+  },[props.category])
  
   
   // const handleClickNext = async () => {
