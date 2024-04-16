@@ -34,10 +34,10 @@ const News=(props)=> {
   useEffect(()=>{
       document.title = `${capitalizeFirstCharacter( props.category)} - Honest News`;
     updateNews();
-  },[])
+  },[props.category])
  
   
-  const handleClickNext = async () => {
+  // const handleClickNext = async () => {
     //  console.log("next");
     //if(this.state.page+1>Math.ceil(this.state.totalResults/props.pageSize)){
     //}else{
@@ -50,10 +50,10 @@ const News=(props)=> {
     //page:this.state.page+1,
     //articals:parsedData.articles,
     //loading:false)}
-    setPage(page+1);
-    updateNews();
-  };
-  const handleClickPrevious = async () => {
+  //   setPage(page+1);
+  //   updateNews();
+  // };
+  // const handleClickPrevious = async () => {
     //  console.log("preivous");
     //let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=f540b434aa9a4518b32fbce69ba1b639&page=${this.state.page-1}&pagesize=${props.pageSize}`;
     //this.setState({loading:true});
@@ -67,10 +67,10 @@ const News=(props)=> {
     //loading:false
 
     //  })
-    setPage(page);
+  //   setPage(page);
     
-    updateNews();
-  };
+  //   updateNews();
+  // };
  const fetchMoreData = async() => {
     // a fake async api call like which sends
     // 20 more records in 1.5 secs
