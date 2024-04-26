@@ -15,7 +15,7 @@ const News=(props)=> {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
  
-  
+ useEffect(()=>{
  const updateNews=async()=> {
     console.log("cmd");
     props.setProgress(10);
@@ -31,7 +31,6 @@ const News=(props)=> {
     setLoading(false);
     props.setProgress(100)
   }
-  useEffect(()=>{
       document.title = `${capitalizeFirstCharacter( props.category)} - Honest News`;
     updateNews();
     //eslint-disable-next-line
