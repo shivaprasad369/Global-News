@@ -35,7 +35,7 @@ const News=(props)=> {
       document.title = `${capitalizeFirstCharacter( props.category)} - Honest News`;
     updateNews();
     //eslint-disable-next-line
-  },[props.category])
+  },[])
  
   
   // const handleClickNext = async () => {
